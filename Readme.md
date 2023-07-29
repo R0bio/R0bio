@@ -1,4 +1,4 @@
-##Olá, eu sou o Robson Santos
+Olá, eu sou o Robson Santos
 
 -💼 Atualmente trabalhando como Assistente de T.I
 -🎓 Futuro Cientista da Computação
@@ -6,8 +6,10 @@
 -🐈‍⬛ Apaixonado por gatos
 
 <div>
-<a herf ="https://github.com/R0bio" >
-<img heidht="180em" src="https://github-readme-stats.vercel.app/api?username=r0bio&show_icons=true&theme=dracula&incluide_all_commits=true&count_private=true/>
   
-  
- </div>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
