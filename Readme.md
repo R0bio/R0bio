@@ -1,6 +1,5 @@
 Olá, eu sou o Robson Santos
 
--💼 Atualmente trabalhando como Assistente de T.I
 -🎓 Futuro Cientista da Computação
 -📝 Estudando Programação Backend
 -🐈‍⬛ Apaixonado por gatos
